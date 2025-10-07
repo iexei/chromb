@@ -1,4 +1,4 @@
-# Chromb
+# chromb
 
 A simple command-line tool to convert Google Drive file links into direct download links.
 
